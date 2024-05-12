@@ -1,0 +1,25 @@
+body {
+    background: linear-gradient(to bottom, #eeeeee, #cccccc);
+}
+
+.titulo {
+    font-size: 28px;
+    font-weight: bold;
+    color: #333333;
+}
+
+.resultado {
+    text-align: center;
+}
+
+.texto-resultado {
+    font-size: 20px;
+    font-weight: bold;
+    color: #555555;
+}
+
+.resultado-numero {
+    font-size: 36px;
+    font-weight: bold;
+    color: #007bff;
+}
